@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=🇻🇳+Xin+chào!+Tôi+là+Hiếu+Dz+🇻🇳;Chào+mừng+đến+với+thế+giới+code!+✨;Sinh+năm+2011+Developer+trẻ+tuổi+💻;Website:+https://nguyenmanhhieu.info.vn//+🚀;Hãy+cùng+tạo+ra+điều+kỳ+diệu!+🌟;Vietnam+Developer+ON+TOP!+🇻🇳🔥" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=35&duration=2500&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=🇻🇳+Xin+chào!+Tôi+là+VLjnh+🇻🇳;Chào+mừng+đến+với+thế+giới+code!+✨;Sinh+năm+2006+Developer+trẻ+tuổi+💻;Website:+https://nguyenmanhhieu.info.vn//+🚀;Hãy+cùng+tạo+ra+điều+kỳ+diệu!+🌟;Vietnam+Developer+ON+TOP!+🇻🇳🔥" alt="Typing Animation" />
 </div>
 
 <div align="center">
